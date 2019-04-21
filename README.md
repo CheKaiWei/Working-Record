@@ -9,3 +9,7 @@ This is my first working record.
 5. project: finish the project and git
 6. English: reading
 7. review: math, English, network, ES, report and project
+
+### 2019.4.21
+-[] this is my first write document in github
+-[] this is the second document 
